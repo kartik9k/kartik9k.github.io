@@ -34,7 +34,7 @@ Jewelry weaves into our everyday lives as no other wearable does. It comes in ma
 </div>
 
 
-This work has been conditionally accepted in CHI'2019. See you in Glasgow!
+Jatin Arora, Kartik Mathur, Aryan Saini, and Aman Parnami. 2019. Gehna: Exploring the Design Space of Jewelry as an Input Modality. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI ’19). Association for Computing Machinery, New York, NY, USA, Paper 521, 1–12. DOI:https://doi.org/10.1145/3290605.3300751
 <br/><br/><br/>
 
 <!-- You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
