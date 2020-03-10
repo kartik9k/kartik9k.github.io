@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Gehna
-description: Exploring the Design Space of Jewelry as an Input Modality
+title: DIO
+description: Design and Evaluation of DIO Construction Toolkit for Co-making Shared Constructions
 img: /img/display-gehna.png
 ---
 
