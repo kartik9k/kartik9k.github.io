@@ -78,11 +78,16 @@ permalink: /about/
 <img class="col one right" src="/img/profile.jpg">
 
 <br/>
-I am an undergradute student at <a href="https://www.iiitd.ac.in" target="blank">Indraprastha Institute of Information Technology, Delhi</a> pursuing my Bachelor's Degree in Technology with Electronics and Communication being my major. 
+I am a graduate engineer with focus on Electronics and Communication Engineering from <a href="https://www.iiitd.ac.in" target="blank">Indraprastha Institute of Information Technology, Delhi</a>. I am currently working as a Design Engineer at <a href="https://www.nxp.com/" target="blank">NXP Semiconductors</a> since July 2019.
 
-I have always been actively involved in projects which may help in solving real life problems. I like to design and prototype interactive systems that enhance the interaction between computer systems and humans.
+My undergraduate thesis, labelled "Designing Wearables, Trinkets and Toolkits" was advised by Dr. Aman Parnami, and I am an alumni of <a href="http://weave.iiitd.edu.in/" target="blank">Weave Lab</a>. 
 
-My undergraduate thesis labelled "Designing wearable toolkits and trinkets" is being advised by Dr. Aman Parnami and I'm an active member of the <a href="http://weave.iiitd.edu.in/" target="blank">Weave Lab</a>.
+Please find my resume <a href="https://drive.google.com/file/d/1LflBmL6UF7z6Gh00q48dnx513SaF30B1/view?usp=sharing" target="blank">here</a>: 
+<!-- I am an undergradute student at <a href="https://www.iiitd.ac.in" target="blank">Indraprastha Institute of Information Technology, Delhi</a> pursuing my Bachelor's Degree in Technology with Electronics and Communication being my major.  -->
+
+<!-- I have always been actively involved in projects which may help in solving real life problems. I like to design and prototype interactive systems that enhance the interaction between computer systems and humans. -->
+
+<!-- My undergraduate thesis labelled "Designing wearable toolkits and trinkets" is being advised by Dr. Aman Parnami and I'm an active member of the <a href="http://weave.iiitd.edu.in/" target="blank">Weave Lab</a>. -->
 
 <br/>
 <hr/>

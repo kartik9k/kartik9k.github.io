@@ -30,14 +30,14 @@ DIO is a novel digital-physical construction toolkit to enable constructionist l
 	<img class="col three" src="{{ site.baseurl }}/img/dio-banner.png" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	These are some of the day-to-day interactions that Jewelry enables 
+	Possibilities of interactions enabled by DIO 
 </div>
 
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/dio-modules.png" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	These are some of the day-to-day interactions that Jewelry enables 
+	Different types of Input-Output modules and variety of attachments developed in our toolkit   
 </div>
 
 
