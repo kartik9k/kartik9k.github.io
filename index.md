@@ -78,7 +78,7 @@ permalink: /about/
 <img class="col one right" src="/img/profile.jpg">
 
 <br/>
-I am a graduate engineer with focus on Electronics and Communication Engineering from <a href="https://www.iiitd.ac.in" target="blank">Indraprastha Institute of Information Technology, Delhi</a>. I am currently working as a Design Engineer at <a href="https://www.nxp.com/" target="blank">NXP Semiconductors</a> since July 2019.
+I am a graduate engineer (Class of 2019) with focus on Electronics and Communication Engineering from <a href="https://www.iiitd.ac.in" target="blank">Indraprastha Institute of Information Technology, Delhi</a>. I am currently working as a Design Engineer at <a href="https://www.nxp.com/" target="blank">NXP Semiconductors</a> since July 2019.
 
 My undergraduate thesis, labelled "Designing Wearables, Trinkets and Toolkits" was advised by Dr. Aman Parnami, and I am an alumni of <a href="http://weave.iiitd.edu.in/" target="blank">Weave Lab</a>. 
 
