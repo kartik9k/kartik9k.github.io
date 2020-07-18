@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DIO
+title: JIO
 description: Design and Evaluation of DIO Construction Toolkit for Co-making Shared Constructions
 img: /img/display-dio.png
 ---
