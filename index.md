@@ -1,7 +1,7 @@
 ---
 layout: page
 <!-- title: about -->
-<!-- permalink:  -->
+<!-- permalink: https://kartik9k.github.io/ -->
 ---
 
 <!-- ---
