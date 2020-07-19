@@ -6,7 +6,7 @@ permalink: /artwork/
 
 {% for project in site.artwork %}
 
-{% if project.redirect %}
+<!-- {% if project.redirect %}
 <div class="project">
     <div class="thumbnail">
         <a href="{{ project.redirect }}" target="_blank">
@@ -23,7 +23,7 @@ permalink: /artwork/
         </a>
     </div>
 </div>
-{% else %}
+{% else %} -->
 
 <div class="project ">
     <div class="thumbnail">
@@ -42,6 +42,6 @@ permalink: /artwork/
     </div>
 </div>
 
-{% endif %}
+<!-- {% endif %} -->
 
 {% endfor %}
