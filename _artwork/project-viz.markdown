@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: New name
 description: 
 img: /img/artwork/1/M.png
 ---
