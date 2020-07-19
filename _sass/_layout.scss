@@ -234,6 +234,7 @@ top: -5%;
 .thumbnail_art img{
     width: 1000px;
     height: auto;
+    object-fit: contain;
     position: relative;
     left: -25%;
     top: -5%;
