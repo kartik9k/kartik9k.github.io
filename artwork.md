@@ -26,19 +26,21 @@ permalink: /artwork/
 {% else %} -->
 
 <div class="project_art ">
-    <div class="img_row">
-        <a href="{{ site.baseurl }}{{ project.url }}">
-        {% if project.img %}
-        <img class="col three" src="{{ project.img }}"/>
-        {% else %}
-        <div class="thumbnail blankbox"></div>
-        {% endif %}    
-        <span>
-            <h1>{{ project.title }}</h1>
-            <br/>
-            <p>{{ project.description }}</p>
-        </span>
-        </a>
+    <div class="thumbnail">
+        <div class="img_row">
+            <a href="{{ site.baseurl }}{{ project.url }}">
+            {% if project.img %}
+            <img class="col three" src="{{ project.img }}"/>
+            {% else %}
+            <div class="thumbnail blankbox"></div>
+            {% endif %}    
+            <span>
+                <h1>{{ project.title }}</h1>
+                <br/>
+                <p>{{ project.description }}</p>
+            </span>
+            </a>
+        </div>
     </div>
 </div>
 
