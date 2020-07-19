@@ -26,10 +26,10 @@ permalink: /artwork/
 {% else %} -->
 
 <div class="project ">
-    <div class="thumbnail">
+    <div class="img_row">
         <a href="{{ site.baseurl }}{{ project.url }}">
         {% if project.img %}
-        <img class="thumbnail" src="{{ project.img }}"/>
+        <img class="col three" src="{{ project.img }}"/>
         {% else %}
         <div class="thumbnail blankbox"></div>
         {% endif %}    
