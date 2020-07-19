@@ -205,6 +205,15 @@ vertical-align: middle;
 box-sizing: border-box;
 padding: 10px;
 }
+.project_art {
+    width: 1000px;
+    height: 1000px;
+    object-fit: contain;
+    float: left;
+    vertical-align: middle;
+    box-sizing: border-box;
+    padding: 10px;
+}
 .thumbnail{
 width: 100%;
 height: 230px;
