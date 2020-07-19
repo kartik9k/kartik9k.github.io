@@ -29,7 +29,7 @@ permalink: /artwork/
     <div class="thumbnail">
         <a href="{{ site.baseurl }}{{ project.url }}">
         {% if project.img %}
-        <img class="img_row" src="{{ project.img }}"/>
+        <img class="thumbnail" src="{{ project.img }}"/>
         {% else %}
         <div class="thumbnail blankbox"></div>
         {% endif %}    
